@@ -8,7 +8,7 @@ I build large-scale distributed messaging platforms — and, hands-on, AI agents
 
 ## What's inside
 
-- **About & Experience** — engineering leadership and platform work at Brevo (formerly Sendinblue), Incise Infotech, and Intecons Software Lab.
+- **About & Experience** — engineering leadership and platform work at Brevo (formerly Sendinblue) and Intecons Software Lab.
 - **Highlights** — re-architecting email at scale, contact-level Kafka fan-out, AI-native engineering, and team leadership.
 - **Skills** — Golang, Python, Kafka, Kubernetes, and an AI engineering stack spanning Agentic AI, RAG, LangChain/LangGraph, MCP, and vector DBs.
 - **Projects**
